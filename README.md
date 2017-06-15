@@ -32,7 +32,7 @@ compile 'io.codepace:netutils:0.1.0'
 ```
 
 ## Documentation
-Available [here](codepace-hq.github.io/NetUtils)
+Available [here](http://codepace-hq.github.io/NetUtils)
 
 ## Thank you
 
