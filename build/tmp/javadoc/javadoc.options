@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\Carter\\IdeaProjects\\netutils_gradle\\build\\classes\\main;C:\\Users\\Carter\\IdeaProjects\\netutils_gradle\\build\\resources\\main'
+-d 'C:\\Users\\Carter\\IdeaProjects\\netutils_gradle\\build\\docs\\javadoc'
+-doctitle 'netutils 0.1.0 API'
+-quiet 
+-windowtitle 'netutils 0.1.0 API'
+'C:\\Users\\Carter\\IdeaProjects\\netutils_gradle\\src\\main\\java\\io\\codepace\\HttpTypes.java'
+'C:\\Users\\Carter\\IdeaProjects\\netutils_gradle\\src\\main\\java\\io\\codepace\\NetUtils.java'
+'C:\\Users\\Carter\\IdeaProjects\\netutils_gradle\\src\\main\\java\\io\\codepace\\SimpleHttpRequest.java'
