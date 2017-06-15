@@ -36,7 +36,7 @@ Available [here](codepace-hq.github.io/NetUtils)
 
 ## Thank you
 
-Thank you for using AlertFX 👏.
+Thank you for using NetUtils 👏.
 If you're feeling generous, donations are always appreciated:
 
 ```
