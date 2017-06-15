@@ -8,6 +8,9 @@ addons:
     packages:
       - oracle-java8-installer # http://bit.ly/2qOkihl
 
+before-script:
+  - chmod +x gradlew
+
 before-install:
   - sudo apt-get update -q
 
