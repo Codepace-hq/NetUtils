@@ -5,8 +5,6 @@
 # IDEA stuff
 .idea
 
-# Gradle stuff
-.gradle
 
 # Package Files #
 *.jar
