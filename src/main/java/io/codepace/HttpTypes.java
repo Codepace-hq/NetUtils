@@ -3,7 +3,7 @@ package io.codepace;
 /**
  * Enum for using various http types (GET, POST, etc.)
  * <p>
- *     <b>NOTE: PATCH &amp; DELETE requests are <i>not</i> supported</b>
+ * <b>NOTE: PATCH &amp; DELETE requests are <i>not</i> supported</b>
  * </p>
  */
 public enum HttpTypes {
@@ -18,15 +18,15 @@ public enum HttpTypes {
 
     private final String val;
 
-    private HttpTypes(String s){
+    private HttpTypes(String s) {
         val = s;
     }
 
-    public boolean equalsName(String otherName){
+    public boolean equalsName(String otherName) {
         return val.equals(otherName);
     }
 
-    public String toString(){
+    public String toString() {
         return this.val;
     }
 }

@@ -1,0 +1,15 @@
+language: java
+
+dist: trusty
+
+sudo: false
+addons:
+  apt:
+    packages:
+      - oracle-java8-installer # http://bit.ly/2qOkihl
+
+before-install:
+  - sudo apt-get update -q
+
+script:
+  - gradle clean jar javadoc build test
