@@ -4,8 +4,32 @@ A library to simplify Java networking tasks.
 ## Downloading
 
 #### Precompiled
-While we are uploading the project to the various dependency management services, feel 
-free to download the jar from `build/libs` and include it in your build path.
+Feel free to download the jar from `build/libs` and include it in your build path.
+
+#### Maven
+Include this in your `pom/xml`
+
+```$xml
+<dependency>
+  <groupId>io.codepace</groupId>
+  <artifactId>netutils</artifactId>
+  <version>0.1.0</version>
+  <type>pom</type>
+</dependency>
+```
+
+#### Gradle
+Include this in your `build.gradle`
+```
+compile 'io.codepace:netutils:0.1.0'
+```
+
+#### Ivy
+```xml
+<dependency org='io.codepace' name='netutils' rev='0.1.0'>
+  <artifact name='netutils' ext='pom' ></artifact>
+</dependency>
+```
 
 ## Documentation
 Available [here](codepace-hq.github.io/NetUtils)
