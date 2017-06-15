@@ -13,6 +13,7 @@ before-script:
 
 before-install:
   - sudo apt-get update -q
+  - chmod +x gradlew
 
 script:
   - gradle clean jar javadoc build test
