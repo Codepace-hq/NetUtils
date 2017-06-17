@@ -9,7 +9,7 @@ Feel free to download the jar from `build/libs` and include it in your build pat
 #### Maven
 Include this in your `pom/xml`
 
-```$xml
+```xml
 <dependency>
   <groupId>io.codepace</groupId>
   <artifactId>netutils</artifactId>
