@@ -7,7 +7,7 @@ A library to simplify Java networking tasks.
 Feel free to download the jar from `build/libs` and include it in your build path.
 
 #### Maven
-Include this in your `pom/xml`
+Include this in your `pom.xml`
 
 ```xml
 <dependency>
